@@ -12,7 +12,7 @@
     "version": "7.2.0"
   },
   "dependencies": {
-    "hexo": "^7.0.0",
+    "hexo": "^8.1.1",
     "hexo-butterfly-extjs": "^1.5.2",
     "hexo-deployer-git": "^4.0.0",
     "hexo-deployer-sftp": "^0.4.1",
